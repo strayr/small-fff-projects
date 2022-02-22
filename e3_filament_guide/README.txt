@@ -1,0 +1,1 @@
+Ender 3 Filament Guide for rear + wall + overhead spools by doppel_strayr on Thingiverse: https://www.thingiverse.com/thing:4742888
