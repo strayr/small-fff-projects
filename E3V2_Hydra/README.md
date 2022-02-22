@@ -8,9 +8,8 @@ Added an extra tab tab to cut down on some of the rocking moments that an DD ext
 
 First published on thingiverse https://www.thingiverse.com/thing:4899304
 
-Remixes: 
+## Remixes: 
 - https://www.thingiverse.com/thing:4707481 by (newphreak)[https://www.thingiverse.com/newphreak]
 - https://www.thingiverse.com/thing:4062242 by (BoothyBoothy)[https://www.thingiverse.com/BoothyBoothy]
 
-License: https://creativecommons.org/licenses/by/4.0/
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
