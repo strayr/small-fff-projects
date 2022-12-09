@@ -1,5 +1,7 @@
 # Curtain Hook for 30mm runners.
 
-Prints without support
+Prints without support. Shown here printed in ASA, will probably work in PET-G, might be a bit stiff and brittle in PLA, let me know if adjustments needed.
 
-![Alt text](./curtainhook_2022-Dec-09_05-01-40PM-000_CustomizedView32443272678.jpg)
+![Render](./img/render.jpg)
+![As printed](./img/printed.jpg)
+![On Printbed](./img/on_printbed.jpg)
